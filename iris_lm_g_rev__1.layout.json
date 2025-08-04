@@ -157,7 +157,7 @@
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_NO",
+      "KC_PSLS",
       "KC_F11",
       "KC_F10",
       "KC_F9",
@@ -177,7 +177,7 @@
       "KC_P4",
       "KC_EQL",
       "TG(1)",
-      "KC_NO",
+      "KC_ENT",
       "KC_P3",
       "KC_P2",
       "KC_P1",
@@ -187,7 +187,7 @@
       "KC_PDOT",
       "KC_P0",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_PAST"
     ],
     [
       "KC_TRNS",
